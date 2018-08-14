@@ -53,3 +53,4 @@ code to merge.
   ```shell
   adb install bazel-bin/tensorflow/contrib/lite/java/demo/app/src/main/TfLiteCameraDemo.apk
   ```
+# mobileNet_retail
